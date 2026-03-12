@@ -92,7 +92,6 @@
 		D9985E232F5F50F300D55DA7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
 		D9985E242F5F50F400D55DA7 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = es; path = es.lproj/Credits.rtf; sourceTree = "<group>"; };
 		D9C34D722F6363870076E48F /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = "Base.lproj/MP3GainExpress-Info.plist"; sourceTree = "<group>"; };
-		D9C34D752F6363AA0076E48F /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = el; path = "el.lproj/MP3GainExpress-Info.plist"; sourceTree = "<group>"; };
 		D9F96FB42F44E6EF00CA6068 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		D9F96FB42F44E6EF00CA6069 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E95AA48C3D9E414285F8D821 /* M3GLanguageSelectorController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = M3GLanguageSelectorController.m; sourceTree = "<group>"; };
@@ -364,7 +363,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				D9C34D722F6363870076E48F /* Base */,
-				D9C34D752F6363AA0076E48F /* el */,
 			);
 			name = "MP3GainExpress-Info.plist";
 			sourceTree = "<group>";
